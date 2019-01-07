@@ -1,5 +1,7 @@
 # Tomagatchi
-Homework project of Tomagatchi
+## Homework project of Tomagatchi
+
+
 class Tomagotchi {
     constructor(name) {
         this.name
